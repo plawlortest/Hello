@@ -1,4 +1,6 @@
 
-public class hello {
-	//some stuff
+public class hello extends ConsoleProgram{
+	public void run() {
+		println("hello");
+	}
 }
